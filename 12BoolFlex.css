@@ -270,6 +270,9 @@
     background-color: green;
  }
  /* desktop */
+ .space{
+     margin-top: 30px;
+ }
  @media all and (min-width: 1000px) {
     .col-bg-1 {
         flex-basis: calc((100% / 12) * 1);
